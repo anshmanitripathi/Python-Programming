@@ -1,0 +1,5 @@
+a = int(input("Enter the no. of 100's notes : "))
+b = int(input("Enter the no. of 500's notes : "))
+c = int(input("Enter the no. of 1000's notes : "))
+amount = (a * 100) + (b * 500) + (c *1000)
+print("Total amount = ", amount)

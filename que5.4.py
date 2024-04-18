@@ -1,0 +1,9 @@
+i=0
+a=0
+while(i<=500):
+    a=a+i
+    if(i==5*i):
+        print(a)
+    else:
+        print()
+    i=i+1
